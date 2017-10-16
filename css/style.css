@@ -1,0 +1,49 @@
+html{
+  position: relative;
+}
+
+body {
+    min-height: 75rem;
+    padding-top: 3.5rem;
+  }
+
+.img-jumbotron{
+  height: 140px;
+  width: 140px;
+}
+
+footer{
+  height: auto;
+  padding-top: 10px;
+	padding-bottom: 10px;
+	/* position: relative; */
+  position: absolute;
+  bottom: 0;
+  width: 100%;  
+  height: auto;
+}
+
+section{
+  margin: 5rem 0rem;
+}
+
+.thumbnail{
+  padding: 0 0 15px 0;
+  border-style: groove;
+  border-radius: 0.5rem;
+  height: 420px;
+}
+
+.thumbnail .conteudo{
+  padding: 0.70em;
+}
+
+.img-tamanho{
+  height: 150px;
+  width: 100%;
+}
+
+.bt-baixo{
+  position: absolute;
+  bottom: 0;
+}
