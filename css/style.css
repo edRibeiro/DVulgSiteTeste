@@ -31,19 +31,23 @@ section{
   padding: 0 0 15px 0;
   border-style: groove;
   border-radius: 0.5rem;
-  height: 420px;
+  height: 100%;
 }
 
 .thumbnail .conteudo{
   padding: 0.70em;
+  
 }
-
+.thumbnail .conteudo p{
+  margin-bottom: 5rem;
+}
 .img-tamanho{
-  height: 150px;
+  height: auto;
   width: 100%;
 }
 
 .bt-baixo{
   position: absolute;
   bottom: 0;
+  margin: 1rem 0;
 }
