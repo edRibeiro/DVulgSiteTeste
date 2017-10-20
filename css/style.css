@@ -53,4 +53,18 @@ section{
       text-align: center;
     }
 }
-
+.tag {
+  display: inline-block;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+  color: rgb(255, 255, 255);
+  padding: 6px 14px;
+  border-radius: 14px;
+  
+}
+.post-meta{
+  display: inline-table;
+  left: 0;
+}
