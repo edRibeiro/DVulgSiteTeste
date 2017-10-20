@@ -5,12 +5,8 @@ html{
 body {
     min-height: 75rem;
     padding-top: 3.5rem;
+    margin-bottom: 5rem;
   }
-
-.img-jumbotron{
-  height: 140px;
-  width: 140px;
-}
 
 footer{
   height: auto;
@@ -20,13 +16,18 @@ footer{
   position: absolute;
   bottom: 0;
   width: 100%;  
-  height: auto;
+
 }
 
 section{
-  margin: 5rem 0rem;
+  margin: 0.1rem 0rem;
 }
-
+.section{
+  margin-top: 5rem; 
+}
+.row-about{
+  margin: 3rem 3rem;
+}
 .thumbnail{
   padding: 0 0 15px 0;
   border-style: groove;
@@ -40,10 +41,6 @@ section{
 }
 .thumbnail .conteudo p{
   margin-bottom: 5rem;
-}
-.img-tamanho{
-  height: auto;
-  width: 100%;
 }
 
 .bt-baixo{
